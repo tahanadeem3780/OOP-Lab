@@ -1,0 +1,20 @@
+<resources>
+    <!-- Classic and Clean Colors -->
+    <color name="classicBackground">#F4F6F8</color>
+    <color name="classicPrimary">#007BFF</color>
+    <color name="classicAccent">#FF4081</color>
+    <color name="classicText">#212121</color>
+    <color name="classicSecondary">#E0E0E0</color>
+    <color name="splashBackground">#EAF3FA</color>
+    <color name="classic_background">#FAF9F6</color>
+    <color name="classic_primary">#2A9D8F</color>
+    <color name="classic_secondary">#E76F51</color>
+    <color name="classic_text">#264653</color>
+    <color name="white">#FFFFFF</color>
+    <color name="classicDark">#3F51B5</color>
+    <color name="classicLight">#FF4081</color>
+    <color name="textPrimary">#212121</color>
+    <color name="background">#FFF8F3</color>
+    <color name="primaryDark">#3949AB</color>
+
+</resources>
